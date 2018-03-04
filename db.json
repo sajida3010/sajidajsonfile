@@ -1,0 +1,28 @@
+{
+profiles: [
+{
+id:1,
+name:Sajida,
+email: sajida@gmail.com,
+phone: 1231231231
+},
+{id:2,
+name:Rajesh,
+email: rajesh@gmail.com,
+phone: 1231231231
+},
+{
+id:3,
+name:Adil,
+email: adil@gmail.com,
+phone: 9090909090
+},
+{
+id:4,
+name:Aquil,
+email: aquil@gmail.com,
+phone: 9292929292
+}
+}
+]
+}
